@@ -1,4 +1,4 @@
-# 0L-Fund
+# Research and Experimentation (0L-Fund)
 RadicalxChange Foundation, a 501(c)3 nonprofit, seeks to build a coherent and sustainable new political economy.  
 
 We are establishing a Research and Experimentation fund advancing new incentive structures.  By encouraging investment in public goods, optimizing the use of club goods, and reexamining old assumptions about property and democracy -- as well as by building bridges between academic rigor and public imagination -- we seek to lay foundations for new institutions that allow everyone to participate in the value they co-create.  
